@@ -1,1 +1,1 @@
-# ALX_Simple_Quiz
+Create a simple interactive quiz.
